@@ -73,7 +73,8 @@ JS_FILES = src/wysihtml5.js \
   src/toolbar/dialog.js \
   src/toolbar/speech.js \
   src/toolbar/toolbar.js \
-  src/editor.js
+  src/editor.js \
+  src/amd.js
 
 all: bundle minify
 
